@@ -1,7 +1,8 @@
 Did the book thing of course, plus:
 + Added a score counter
 - Enemies give score when defeated
-- When fully equipped with either a weapon or shield related Power Cubes 	will give a score increase (150 for weapon or 300 for shield)
+- When fully equipped with either a weapon or shield related Power Cubes
+	will give a score increase (150 for weapon or 300 for shield)
 + Added UI
 - Displays score
 - Exclaims what weapon is currently equipped
